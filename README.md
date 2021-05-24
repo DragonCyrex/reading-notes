@@ -1,5 +1,5 @@
 # Growth Mindset
-[![Mindset]](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZj8wJaKk9zTDzIOIjSnAYeYxGhuWb_iVMliJ4mdIjhLA6NVUCIj0oHd8eWJT_RNgKAOo&usqp=CAU)
+![Mindset](https://i.pinimg.com/474x/e8/e0/a6/e8e0a6cabfebe8705858b36c118ff758.jpg)
 ---
 ## Defintion
 **Growth mindset** is an alternative methodology of thinking that allows you to expand your opportunities by challenging yourself to think differently. This way of thinking allows the user to enhance thier mindsets differently according to the change of ideas that can occur to your mind while envisioning success. 
