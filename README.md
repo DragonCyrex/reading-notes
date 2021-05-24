@@ -18,3 +18,4 @@
 ---
 ## References
 [Growth Mindset Website](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+---
