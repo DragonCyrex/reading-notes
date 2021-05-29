@@ -1,5 +1,6 @@
 # Github Concept
 ![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+---
 use `git status` to check your modified content on your terminal.
 > it tracks all your modification inside your logic.
 
