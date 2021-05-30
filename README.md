@@ -9,7 +9,6 @@ ___
 [Replit Account](https://replit.com/@TawfiqMohammd/)
 ___
 ## Table of Content
-
 | Name | Link |
 | --- | --- |
 | Read 01 | [Growth Mindset](GrowthMindset) |
