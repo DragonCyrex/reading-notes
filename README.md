@@ -9,10 +9,11 @@ ___
 [Replit Account](https://replit.com/@TawfiqMohammd/)
 ___
 ## Table of Content
-| Name | Link |
-|---| --- |
-| Read 01| [growthmindset](GrowthMindset)|
-| Read 02| [Github](Github)|
-| Read 03| [Markdown Tools](Markdown)|
 
+| Name | Link |
+| --- | --- |
+| Read 01 | [Growth Mindset](GrowthMindset) |
+| Read 02 | [Github](Github) |
+| Read 03 | [Markdown Tools](Markdown) |
+| Read 04 | [Structure using HTML](HTML) |
 
