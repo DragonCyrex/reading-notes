@@ -5,21 +5,20 @@ My windows version is 10.0.18363
 I'm super excited to learn more about the course in terms of design, architecture, and their relationship with software development. 
 
 ___
-
+## GitHub Account
 [Github Account](https://github.com/DragonCyrex/)
 
 ___
 
+## Replit Account
 [Replit Account](https://replit.com/@TawfiqMohammd/)
 
 ___
 
-## Table of Content
+## Code 102 Notes
+[Class Notes](Code102)
 
-| Name | Link |
-| --- | --- |
-| Read 01 | [Growth Mindset](GrowthMindset) |
-| Read 02 | [Github](Github) |
-| Read 03 | [Markdown Tools](Markdown) |
-| Read 04 | [Structure using HTML](HTML) |
+___
 
+## Code 201 Notes
+[Class Notes](Code201)
